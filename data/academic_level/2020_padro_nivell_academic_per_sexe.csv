@@ -1,0 +1,877 @@
+﻿"Any","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Sexe","Nivell_academic","Nombre"
+2020,1,"Ciutat Vella",1,"el Raval","Dona","Sense estudis",440
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Sense estudis",146
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","Sense estudis",273
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Sense estudis",223
+2020,2,"Eixample",5,"el Fort Pienc","Dona","Sense estudis",262
+2020,2,"Eixample",6,"la Sagrada Família","Dona","Sense estudis",513
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Sense estudis",251
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Sense estudis",263
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Sense estudis",427
+2020,2,"Eixample",10,"Sant Antoni","Dona","Sense estudis",437
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Sense estudis",534
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Sense estudis",31
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Sense estudis",555
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Sense estudis",169
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Sense estudis",185
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Sense estudis",293
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Sense estudis",380
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","Sense estudis",536
+2020,4,"Les Corts",19,"les Corts","Dona","Sense estudis",363
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Sense estudis",288
+2020,4,"Les Corts",21,"Pedralbes","Dona","Sense estudis",25
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Sense estudis",33
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Sense estudis",123
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Sense estudis",36
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Sense estudis",101
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Sense estudis",132
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Sense estudis",115
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Sense estudis",159
+2020,6,"Gràcia",29,"el Coll","Dona","Sense estudis",102
+2020,6,"Gràcia",30,"la Salut","Dona","Sense estudis",111
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","Sense estudis",507
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Sense estudis",324
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Sense estudis",419
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","Sense estudis",169
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","Sense estudis",448
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Sense estudis",100
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","Sense estudis",805
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","Sense estudis",248
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Sense estudis",184
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","Sense estudis",158
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Sense estudis",86
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","Sense estudis",10
+2020,7,"Horta-Guinardó",43,"Horta","Dona","Sense estudis",564
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Sense estudis",496
+2020,8,"Nou Barris",45,"Porta","Dona","Sense estudis",586
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","Sense estudis",436
+2020,8,"Nou Barris",47,"Can Peguera","Dona","Sense estudis",63
+2020,8,"Nou Barris",48,"la Guineueta","Dona","Sense estudis",353
+2020,8,"Nou Barris",49,"Canyelles","Dona","Sense estudis",164
+2020,8,"Nou Barris",50,"les Roquetes","Dona","Sense estudis",370
+2020,8,"Nou Barris",51,"Verdun","Dona","Sense estudis",307
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","Sense estudis",771
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","Sense estudis",213
+2020,8,"Nou Barris",54,"Torre Baró","Dona","Sense estudis",55
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Sense estudis",181
+2020,8,"Nou Barris",56,"Vallbona","Dona","Sense estudis",39
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Sense estudis",168
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","Sense estudis",56
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","Sense estudis",195
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","Sense estudis",724
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","Sense estudis",403
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Sense estudis",246
+2020,9,"Sant Andreu",63,"Navas","Dona","Sense estudis",283
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Sense estudis",479
+2020,10,"Sant Martí",65,"el Clot","Dona","Sense estudis",311
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Sense estudis",181
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Sense estudis",37
+2020,10,"Sant Martí",68,"el Poblenou","Dona","Sense estudis",384
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Sense estudis",125
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Sense estudis",574
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Sense estudis",308
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Sense estudis",493
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Sense estudis",654
+2020,1,"Ciutat Vella",1,"el Raval","Dona","Estudis primaris / certificat d'escolaritat / EGB",4555
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Estudis primaris / certificat d'escolaritat / EGB",1123
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","Estudis primaris / certificat d'escolaritat / EGB",1350
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Estudis primaris / certificat d'escolaritat / EGB",1566
+2020,2,"Eixample",5,"el Fort Pienc","Dona","Estudis primaris / certificat d'escolaritat / EGB",1999
+2020,2,"Eixample",6,"la Sagrada Família","Dona","Estudis primaris / certificat d'escolaritat / EGB",3608
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",1745
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",1905
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Estudis primaris / certificat d'escolaritat / EGB",3355
+2020,2,"Eixample",10,"Sant Antoni","Dona","Estudis primaris / certificat d'escolaritat / EGB",2786
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Estudis primaris / certificat d'escolaritat / EGB",3801
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Estudis primaris / certificat d'escolaritat / EGB",200
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Estudis primaris / certificat d'escolaritat / EGB",3843
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Estudis primaris / certificat d'escolaritat / EGB",899
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Estudis primaris / certificat d'escolaritat / EGB",1367
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Estudis primaris / certificat d'escolaritat / EGB",1888
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Estudis primaris / certificat d'escolaritat / EGB",2458
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","Estudis primaris / certificat d'escolaritat / EGB",3376
+2020,4,"Les Corts",19,"les Corts","Dona","Estudis primaris / certificat d'escolaritat / EGB",2526
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Estudis primaris / certificat d'escolaritat / EGB",1604
+2020,4,"Les Corts",21,"Pedralbes","Dona","Estudis primaris / certificat d'escolaritat / EGB",389
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Estudis primaris / certificat d'escolaritat / EGB",181
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Estudis primaris / certificat d'escolaritat / EGB",825
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Estudis primaris / certificat d'escolaritat / EGB",391
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Estudis primaris / certificat d'escolaritat / EGB",723
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Estudis primaris / certificat d'escolaritat / EGB",1358
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Estudis primaris / certificat d'escolaritat / EGB",872
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Estudis primaris / certificat d'escolaritat / EGB",845
+2020,6,"Gràcia",29,"el Coll","Dona","Estudis primaris / certificat d'escolaritat / EGB",570
+2020,6,"Gràcia",30,"la Salut","Dona","Estudis primaris / certificat d'escolaritat / EGB",740
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","Estudis primaris / certificat d'escolaritat / EGB",2818
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Estudis primaris / certificat d'escolaritat / EGB",2049
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Estudis primaris / certificat d'escolaritat / EGB",1983
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","Estudis primaris / certificat d'escolaritat / EGB",764
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","Estudis primaris / certificat d'escolaritat / EGB",2717
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Estudis primaris / certificat d'escolaritat / EGB",648
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","Estudis primaris / certificat d'escolaritat / EGB",3774
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","Estudis primaris / certificat d'escolaritat / EGB",1274
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Estudis primaris / certificat d'escolaritat / EGB",714
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","Estudis primaris / certificat d'escolaritat / EGB",455
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Estudis primaris / certificat d'escolaritat / EGB",486
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","Estudis primaris / certificat d'escolaritat / EGB",39
+2020,7,"Horta-Guinardó",43,"Horta","Dona","Estudis primaris / certificat d'escolaritat / EGB",2716
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Estudis primaris / certificat d'escolaritat / EGB",2554
+2020,8,"Nou Barris",45,"Porta","Dona","Estudis primaris / certificat d'escolaritat / EGB",3124
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","Estudis primaris / certificat d'escolaritat / EGB",1893
+2020,8,"Nou Barris",47,"Can Peguera","Dona","Estudis primaris / certificat d'escolaritat / EGB",323
+2020,8,"Nou Barris",48,"la Guineueta","Dona","Estudis primaris / certificat d'escolaritat / EGB",1745
+2020,8,"Nou Barris",49,"Canyelles","Dona","Estudis primaris / certificat d'escolaritat / EGB",951
+2020,8,"Nou Barris",50,"les Roquetes","Dona","Estudis primaris / certificat d'escolaritat / EGB",2169
+2020,8,"Nou Barris",51,"Verdun","Dona","Estudis primaris / certificat d'escolaritat / EGB",1643
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","Estudis primaris / certificat d'escolaritat / EGB",3398
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","Estudis primaris / certificat d'escolaritat / EGB",1018
+2020,8,"Nou Barris",54,"Torre Baró","Dona","Estudis primaris / certificat d'escolaritat / EGB",395
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Estudis primaris / certificat d'escolaritat / EGB",1651
+2020,8,"Nou Barris",56,"Vallbona","Dona","Estudis primaris / certificat d'escolaritat / EGB",204
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Estudis primaris / certificat d'escolaritat / EGB",1357
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","Estudis primaris / certificat d'escolaritat / EGB",376
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","Estudis primaris / certificat d'escolaritat / EGB",1516
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","Estudis primaris / certificat d'escolaritat / EGB",5001
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","Estudis primaris / certificat d'escolaritat / EGB",2686
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Estudis primaris / certificat d'escolaritat / EGB",1159
+2020,9,"Sant Andreu",63,"Navas","Dona","Estudis primaris / certificat d'escolaritat / EGB",1943
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Estudis primaris / certificat d'escolaritat / EGB",3084
+2020,10,"Sant Martí",65,"el Clot","Dona","Estudis primaris / certificat d'escolaritat / EGB",2207
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",1110
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",242
+2020,10,"Sant Martí",68,"el Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",2313
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",759
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Estudis primaris / certificat d'escolaritat / EGB",2887
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Estudis primaris / certificat d'escolaritat / EGB",1826
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Estudis primaris / certificat d'escolaritat / EGB",2912
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Estudis primaris / certificat d'escolaritat / EGB",3588
+2020,1,"Ciutat Vella",1,"el Raval","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4473
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1401
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1512
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1634
+2020,2,"Eixample",5,"el Fort Pienc","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2850
+2020,2,"Eixample",6,"la Sagrada Família","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4847
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2753
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2996
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4802
+2020,2,"Eixample",10,"Sant Antoni","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3543
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3912
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",165
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3772
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1068
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1586
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2104
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2744
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4173
+2020,4,"Les Corts",19,"les Corts","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3712
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1979
+2020,4,"Les Corts",21,"Pedralbes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",756
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",294
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1436
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",856
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1552
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2780
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1931
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1344
+2020,6,"Gràcia",29,"el Coll","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",758
+2020,6,"Gràcia",30,"la Salut","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1133
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3574
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2950
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2580
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",966
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3837
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",958
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4368
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1450
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",881
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",561
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",592
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",74
+2020,7,"Horta-Guinardó",43,"Horta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3000
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3109
+2020,8,"Nou Barris",45,"Porta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3386
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2041
+2020,8,"Nou Barris",47,"Can Peguera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",318
+2020,8,"Nou Barris",48,"la Guineueta","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1920
+2020,8,"Nou Barris",49,"Canyelles","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",994
+2020,8,"Nou Barris",50,"les Roquetes","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2359
+2020,8,"Nou Barris",51,"Verdun","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1768
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3666
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1123
+2020,8,"Nou Barris",54,"Torre Baró","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",383
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1541
+2020,8,"Nou Barris",56,"Vallbona","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",188
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1280
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",396
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1732
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",6444
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3410
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1616
+2020,9,"Sant Andreu",63,"Navas","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2552
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",4033
+2020,10,"Sant Martí",65,"el Clot","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2859
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",1404
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",533
+2020,10,"Sant Martí",68,"el Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2892
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",974
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3080
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",2297
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3141
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Batxillerat elemental / graduat escolar / ESO / FPI",3775
+2020,1,"Ciutat Vella",1,"el Raval","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3738
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1796
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1504
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2215
+2020,2,"Eixample",5,"el Fort Pienc","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3814
+2020,2,"Eixample",6,"la Sagrada Família","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6076
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5025
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4961
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6756
+2020,2,"Eixample",10,"Sant Antoni","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4248
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3902
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",65
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3166
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1127
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1651
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2094
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2656
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4636
+2020,4,"Les Corts",19,"les Corts","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5550
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2825
+2020,4,"Les Corts",21,"Pedralbes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1461
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",535
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2791
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2176
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3354
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6544
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3854
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1829
+2020,6,"Gràcia",29,"el Coll","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",907
+2020,6,"Gràcia",30,"la Salut","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1560
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5443
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4103
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3111
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",989
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4529
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1069
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3221
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1285
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",889
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",625
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",667
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",65
+2020,7,"Horta-Guinardó",43,"Horta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3282
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2997
+2020,8,"Nou Barris",45,"Porta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3106
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1686
+2020,8,"Nou Barris",47,"Can Peguera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",184
+2020,8,"Nou Barris",48,"la Guineueta","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1706
+2020,8,"Nou Barris",49,"Canyelles","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",571
+2020,8,"Nou Barris",50,"les Roquetes","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1394
+2020,8,"Nou Barris",51,"Verdun","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1280
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2742
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",659
+2020,8,"Nou Barris",54,"Torre Baró","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",208
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",841
+2020,8,"Nou Barris",56,"Vallbona","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",76
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",806
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",181
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1190
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6573
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3432
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1754
+2020,9,"Sant Andreu",63,"Navas","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2671
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4449
+2020,10,"Sant Martí",65,"el Clot","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3014
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1652
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",942
+2020,10,"Sant Martí",68,"el Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3521
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1253
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2078
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2238
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2841
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2884
+2020,1,"Ciutat Vella",1,"el Raval","Dona","Estudis universitaris / CFGS grau superior",5730
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","Estudis universitaris / CFGS grau superior",3372
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","Estudis universitaris / CFGS grau superior",2324
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","Estudis universitaris / CFGS grau superior",4736
+2020,2,"Eixample",5,"el Fort Pienc","Dona","Estudis universitaris / CFGS grau superior",6483
+2020,2,"Eixample",6,"la Sagrada Família","Dona","Estudis universitaris / CFGS grau superior",10187
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",11003
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",10255
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","Estudis universitaris / CFGS grau superior",12618
+2020,2,"Eixample",10,"Sant Antoni","Dona","Estudis universitaris / CFGS grau superior",7219
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","Estudis universitaris / CFGS grau superior",5772
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","Estudis universitaris / CFGS grau superior",49
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","Estudis universitaris / CFGS grau superior",2563
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","Estudis universitaris / CFGS grau superior",1657
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","Estudis universitaris / CFGS grau superior",2680
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","Estudis universitaris / CFGS grau superior",2578
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","Estudis universitaris / CFGS grau superior",3486
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","Estudis universitaris / CFGS grau superior",7188
+2020,4,"Les Corts",19,"les Corts","Dona","Estudis universitaris / CFGS grau superior",9687
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","Estudis universitaris / CFGS grau superior",4499
+2020,4,"Les Corts",21,"Pedralbes","Dona","Estudis universitaris / CFGS grau superior",2598
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","Estudis universitaris / CFGS grau superior",869
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","Estudis universitaris / CFGS grau superior",5689
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","Estudis universitaris / CFGS grau superior",3751
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","Estudis universitaris / CFGS grau superior",5952
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","Estudis universitaris / CFGS grau superior",11418
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","Estudis universitaris / CFGS grau superior",7264
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","Estudis universitaris / CFGS grau superior",3178
+2020,6,"Gràcia",29,"el Coll","Dona","Estudis universitaris / CFGS grau superior",1191
+2020,6,"Gràcia",30,"la Salut","Dona","Estudis universitaris / CFGS grau superior",2769
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","Estudis universitaris / CFGS grau superior",12182
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","Estudis universitaris / CFGS grau superior",7446
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","Estudis universitaris / CFGS grau superior",4445
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","Estudis universitaris / CFGS grau superior",1381
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","Estudis universitaris / CFGS grau superior",5888
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","Estudis universitaris / CFGS grau superior",1492
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","Estudis universitaris / CFGS grau superior",2487
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","Estudis universitaris / CFGS grau superior",1124
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","Estudis universitaris / CFGS grau superior",794
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","Estudis universitaris / CFGS grau superior",747
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","Estudis universitaris / CFGS grau superior",916
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","Estudis universitaris / CFGS grau superior",99
+2020,7,"Horta-Guinardó",43,"Horta","Dona","Estudis universitaris / CFGS grau superior",3552
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","Estudis universitaris / CFGS grau superior",3187
+2020,8,"Nou Barris",45,"Porta","Dona","Estudis universitaris / CFGS grau superior",2610
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","Estudis universitaris / CFGS grau superior",1352
+2020,8,"Nou Barris",47,"Can Peguera","Dona","Estudis universitaris / CFGS grau superior",115
+2020,8,"Nou Barris",48,"la Guineueta","Dona","Estudis universitaris / CFGS grau superior",1496
+2020,8,"Nou Barris",49,"Canyelles","Dona","Estudis universitaris / CFGS grau superior",506
+2020,8,"Nou Barris",50,"les Roquetes","Dona","Estudis universitaris / CFGS grau superior",795
+2020,8,"Nou Barris",51,"Verdun","Dona","Estudis universitaris / CFGS grau superior",869
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","Estudis universitaris / CFGS grau superior",1866
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","Estudis universitaris / CFGS grau superior",372
+2020,8,"Nou Barris",54,"Torre Baró","Dona","Estudis universitaris / CFGS grau superior",119
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","Estudis universitaris / CFGS grau superior",407
+2020,8,"Nou Barris",56,"Vallbona","Dona","Estudis universitaris / CFGS grau superior",67
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","Estudis universitaris / CFGS grau superior",535
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","Estudis universitaris / CFGS grau superior",83
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","Estudis universitaris / CFGS grau superior",926
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","Estudis universitaris / CFGS grau superior",7766
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","Estudis universitaris / CFGS grau superior",3828
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","Estudis universitaris / CFGS grau superior",2041
+2020,9,"Sant Andreu",63,"Navas","Dona","Estudis universitaris / CFGS grau superior",3052
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","Estudis universitaris / CFGS grau superior",6391
+2020,10,"Sant Martí",65,"el Clot","Dona","Estudis universitaris / CFGS grau superior",3852
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","Estudis universitaris / CFGS grau superior",2749
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","Estudis universitaris / CFGS grau superior",2235
+2020,10,"Sant Martí",68,"el Poblenou","Dona","Estudis universitaris / CFGS grau superior",5640
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","Estudis universitaris / CFGS grau superior",2455
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","Estudis universitaris / CFGS grau superior",1577
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","Estudis universitaris / CFGS grau superior",2758
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","Estudis universitaris / CFGS grau superior",2773
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","Estudis universitaris / CFGS grau superior",2269
+2020,1,"Ciutat Vella",1,"el Raval","Dona","No consta",275
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Dona","No consta",65
+2020,1,"Ciutat Vella",3,"la Barceloneta","Dona","No consta",63
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Dona","No consta",118
+2020,2,"Eixample",5,"el Fort Pienc","Dona","No consta",166
+2020,2,"Eixample",6,"la Sagrada Família","Dona","No consta",228
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Dona","No consta",279
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Dona","No consta",225
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Dona","No consta",317
+2020,2,"Eixample",10,"Sant Antoni","Dona","No consta",186
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Dona","No consta",206
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Dona","No consta",10
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Dona","No consta",262
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Dona","No consta",52
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Dona","No consta",82
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Dona","No consta",115
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Dona","No consta",135
+2020,3,"Sants-Montjuïc",18,"Sants","Dona","No consta",212
+2020,4,"Les Corts",19,"les Corts","Dona","No consta",255
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Dona","No consta",138
+2020,4,"Les Corts",21,"Pedralbes","Dona","No consta",159
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Dona","No consta",57
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Dona","No consta",288
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Dona","No consta",167
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Dona","No consta",287
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Dona","No consta",456
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Dona","No consta",252
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Dona","No consta",111
+2020,6,"Gràcia",29,"el Coll","Dona","No consta",52
+2020,6,"Gràcia",30,"la Salut","Dona","No consta",55
+2020,6,"Gràcia",31,"la Vila de Gràcia","Dona","No consta",252
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Dona","No consta",192
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Dona","No consta",108
+2020,7,"Horta-Guinardó",34,"Can Baró","Dona","No consta",31
+2020,7,"Horta-Guinardó",35,"el Guinardó","Dona","No consta",189
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Dona","No consta",73
+2020,7,"Horta-Guinardó",37,"el Carmel","Dona","No consta",209
+2020,7,"Horta-Guinardó",38,"la Teixonera","Dona","No consta",77
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Dona","No consta",47
+2020,7,"Horta-Guinardó",40,"Montbau","Dona","No consta",17
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Dona","No consta",36
+2020,7,"Horta-Guinardó",42,"la Clota","Dona","No consta",2
+2020,7,"Horta-Guinardó",43,"Horta","Dona","No consta",151
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Dona","No consta",157
+2020,8,"Nou Barris",45,"Porta","Dona","No consta",170
+2020,8,"Nou Barris",46,"el Turó de la Peira","Dona","No consta",110
+2020,8,"Nou Barris",47,"Can Peguera","Dona","No consta",23
+2020,8,"Nou Barris",48,"la Guineueta","Dona","No consta",100
+2020,8,"Nou Barris",49,"Canyelles","Dona","No consta",52
+2020,8,"Nou Barris",50,"les Roquetes","Dona","No consta",124
+2020,8,"Nou Barris",51,"Verdun","Dona","No consta",98
+2020,8,"Nou Barris",52,"la Prosperitat","Dona","No consta",173
+2020,8,"Nou Barris",53,"la Trinitat Nova","Dona","No consta",75
+2020,8,"Nou Barris",54,"Torre Baró","Dona","No consta",41
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Dona","No consta",83
+2020,8,"Nou Barris",56,"Vallbona","Dona","No consta",24
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Dona","No consta",80
+2020,9,"Sant Andreu",58,"Baró de Viver","Dona","No consta",26
+2020,9,"Sant Andreu",59,"el Bon Pastor","Dona","No consta",111
+2020,9,"Sant Andreu",60,"Sant Andreu","Dona","No consta",367
+2020,9,"Sant Andreu",61,"la Sagrera","Dona","No consta",158
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Dona","No consta",96
+2020,9,"Sant Andreu",63,"Navas","Dona","No consta",151
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Dona","No consta",211
+2020,10,"Sant Martí",65,"el Clot","Dona","No consta",194
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Dona","No consta",114
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Dona","No consta",104
+2020,10,"Sant Martí",68,"el Poblenou","Dona","No consta",262
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Dona","No consta",104
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Dona","No consta",189
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Dona","No consta",145
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Dona","No consta",177
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Dona","No consta",220
+2020,1,"Ciutat Vella",1,"el Raval","Home","Sense estudis",181
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Sense estudis",86
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","Sense estudis",105
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Sense estudis",72
+2020,2,"Eixample",5,"el Fort Pienc","Home","Sense estudis",101
+2020,2,"Eixample",6,"la Sagrada Família","Home","Sense estudis",181
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","Sense estudis",44
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Sense estudis",83
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Sense estudis",137
+2020,2,"Eixample",10,"Sant Antoni","Home","Sense estudis",127
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Sense estudis",165
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Sense estudis",12
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Sense estudis",226
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Sense estudis",66
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Sense estudis",88
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","Sense estudis",108
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Sense estudis",158
+2020,3,"Sants-Montjuïc",18,"Sants","Home","Sense estudis",210
+2020,4,"Les Corts",19,"les Corts","Home","Sense estudis",110
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Sense estudis",100
+2020,4,"Les Corts",21,"Pedralbes","Home","Sense estudis",6
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Sense estudis",10
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Sense estudis",33
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Sense estudis",4
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Sense estudis",15
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Sense estudis",27
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Sense estudis",32
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Sense estudis",63
+2020,6,"Gràcia",29,"el Coll","Home","Sense estudis",36
+2020,6,"Gràcia",30,"la Salut","Home","Sense estudis",29
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","Sense estudis",128
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Sense estudis",97
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Sense estudis",144
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","Sense estudis",46
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","Sense estudis",159
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Sense estudis",36
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","Sense estudis",405
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","Sense estudis",116
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Sense estudis",85
+2020,7,"Horta-Guinardó",40,"Montbau","Home","Sense estudis",57
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Sense estudis",30
+2020,7,"Horta-Guinardó",42,"la Clota","Home","Sense estudis",6
+2020,7,"Horta-Guinardó",43,"Horta","Home","Sense estudis",234
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Sense estudis",184
+2020,8,"Nou Barris",45,"Porta","Home","Sense estudis",283
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","Sense estudis",170
+2020,8,"Nou Barris",47,"Can Peguera","Home","Sense estudis",15
+2020,8,"Nou Barris",48,"la Guineueta","Home","Sense estudis",145
+2020,8,"Nou Barris",49,"Canyelles","Home","Sense estudis",71
+2020,8,"Nou Barris",50,"les Roquetes","Home","Sense estudis",162
+2020,8,"Nou Barris",51,"Verdun","Home","Sense estudis",144
+2020,8,"Nou Barris",52,"la Prosperitat","Home","Sense estudis",352
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","Sense estudis",50
+2020,8,"Nou Barris",54,"Torre Baró","Home","Sense estudis",26
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","Sense estudis",91
+2020,8,"Nou Barris",56,"Vallbona","Home","Sense estudis",11
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","Sense estudis",91
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","Sense estudis",18
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","Sense estudis",96
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","Sense estudis",275
+2020,9,"Sant Andreu",61,"la Sagrera","Home","Sense estudis",161
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Sense estudis",76
+2020,9,"Sant Andreu",63,"Navas","Home","Sense estudis",101
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Sense estudis",164
+2020,10,"Sant Martí",65,"el Clot","Home","Sense estudis",108
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Sense estudis",59
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Sense estudis",10
+2020,10,"Sant Martí",68,"el Poblenou","Home","Sense estudis",132
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Sense estudis",72
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Sense estudis",273
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","Sense estudis",121
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Sense estudis",189
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","Sense estudis",310
+2020,1,"Ciutat Vella",1,"el Raval","Home","Estudis primaris / certificat d'escolaritat / EGB",6060
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Estudis primaris / certificat d'escolaritat / EGB",3159
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","Estudis primaris / certificat d'escolaritat / EGB",1358
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Estudis primaris / certificat d'escolaritat / EGB",1700
+2020,2,"Eixample",5,"el Fort Pienc","Home","Estudis primaris / certificat d'escolaritat / EGB",1520
+2020,2,"Eixample",6,"la Sagrada Família","Home","Estudis primaris / certificat d'escolaritat / EGB",2160
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",985
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",1097
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Estudis primaris / certificat d'escolaritat / EGB",1895
+2020,2,"Eixample",10,"Sant Antoni","Home","Estudis primaris / certificat d'escolaritat / EGB",1875
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Estudis primaris / certificat d'escolaritat / EGB",3408
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Estudis primaris / certificat d'escolaritat / EGB",197
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Estudis primaris / certificat d'escolaritat / EGB",3087
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Estudis primaris / certificat d'escolaritat / EGB",622
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Estudis primaris / certificat d'escolaritat / EGB",1080
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","Estudis primaris / certificat d'escolaritat / EGB",1335
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Estudis primaris / certificat d'escolaritat / EGB",1762
+2020,3,"Sants-Montjuïc",18,"Sants","Home","Estudis primaris / certificat d'escolaritat / EGB",2849
+2020,4,"Les Corts",19,"les Corts","Home","Estudis primaris / certificat d'escolaritat / EGB",1459
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Estudis primaris / certificat d'escolaritat / EGB",951
+2020,4,"Les Corts",21,"Pedralbes","Home","Estudis primaris / certificat d'escolaritat / EGB",157
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Estudis primaris / certificat d'escolaritat / EGB",161
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Estudis primaris / certificat d'escolaritat / EGB",497
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Estudis primaris / certificat d'escolaritat / EGB",186
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Estudis primaris / certificat d'escolaritat / EGB",421
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Estudis primaris / certificat d'escolaritat / EGB",556
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Estudis primaris / certificat d'escolaritat / EGB",474
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Estudis primaris / certificat d'escolaritat / EGB",518
+2020,6,"Gràcia",29,"el Coll","Home","Estudis primaris / certificat d'escolaritat / EGB",396
+2020,6,"Gràcia",30,"la Salut","Home","Estudis primaris / certificat d'escolaritat / EGB",511
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","Estudis primaris / certificat d'escolaritat / EGB",1765
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Estudis primaris / certificat d'escolaritat / EGB",1236
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Estudis primaris / certificat d'escolaritat / EGB",1130
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","Estudis primaris / certificat d'escolaritat / EGB",599
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","Estudis primaris / certificat d'escolaritat / EGB",1788
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Estudis primaris / certificat d'escolaritat / EGB",385
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","Estudis primaris / certificat d'escolaritat / EGB",3071
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","Estudis primaris / certificat d'escolaritat / EGB",999
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Estudis primaris / certificat d'escolaritat / EGB",581
+2020,7,"Horta-Guinardó",40,"Montbau","Home","Estudis primaris / certificat d'escolaritat / EGB",273
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Estudis primaris / certificat d'escolaritat / EGB",319
+2020,7,"Horta-Guinardó",42,"la Clota","Home","Estudis primaris / certificat d'escolaritat / EGB",52
+2020,7,"Horta-Guinardó",43,"Horta","Home","Estudis primaris / certificat d'escolaritat / EGB",2080
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Estudis primaris / certificat d'escolaritat / EGB",1730
+2020,8,"Nou Barris",45,"Porta","Home","Estudis primaris / certificat d'escolaritat / EGB",2457
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","Estudis primaris / certificat d'escolaritat / EGB",1385
+2020,8,"Nou Barris",47,"Can Peguera","Home","Estudis primaris / certificat d'escolaritat / EGB",250
+2020,8,"Nou Barris",48,"la Guineueta","Home","Estudis primaris / certificat d'escolaritat / EGB",1141
+2020,8,"Nou Barris",49,"Canyelles","Home","Estudis primaris / certificat d'escolaritat / EGB",761
+2020,8,"Nou Barris",50,"les Roquetes","Home","Estudis primaris / certificat d'escolaritat / EGB",1979
+2020,8,"Nou Barris",51,"Verdun","Home","Estudis primaris / certificat d'escolaritat / EGB",1290
+2020,8,"Nou Barris",52,"la Prosperitat","Home","Estudis primaris / certificat d'escolaritat / EGB",2670
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","Estudis primaris / certificat d'escolaritat / EGB",883
+2020,8,"Nou Barris",54,"Torre Baró","Home","Estudis primaris / certificat d'escolaritat / EGB",390
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","Estudis primaris / certificat d'escolaritat / EGB",1471
+2020,8,"Nou Barris",56,"Vallbona","Home","Estudis primaris / certificat d'escolaritat / EGB",186
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","Estudis primaris / certificat d'escolaritat / EGB",1390
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","Estudis primaris / certificat d'escolaritat / EGB",337
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","Estudis primaris / certificat d'escolaritat / EGB",1401
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","Estudis primaris / certificat d'escolaritat / EGB",3591
+2020,9,"Sant Andreu",61,"la Sagrera","Home","Estudis primaris / certificat d'escolaritat / EGB",1861
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Estudis primaris / certificat d'escolaritat / EGB",772
+2020,9,"Sant Andreu",63,"Navas","Home","Estudis primaris / certificat d'escolaritat / EGB",1199
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Estudis primaris / certificat d'escolaritat / EGB",2109
+2020,10,"Sant Martí",65,"el Clot","Home","Estudis primaris / certificat d'escolaritat / EGB",1584
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",825
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",216
+2020,10,"Sant Martí",68,"el Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",1749
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",524
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Estudis primaris / certificat d'escolaritat / EGB",3577
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","Estudis primaris / certificat d'escolaritat / EGB",1469
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Estudis primaris / certificat d'escolaritat / EGB",2012
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","Estudis primaris / certificat d'escolaritat / EGB",2761
+2020,1,"Ciutat Vella",1,"el Raval","Home","Batxillerat elemental / graduat escolar / ESO / FPI",5969
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3319
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1763
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2020
+2020,2,"Eixample",5,"el Fort Pienc","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2634
+2020,2,"Eixample",6,"la Sagrada Família","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4151
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2331
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2523
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3871
+2020,2,"Eixample",10,"Sant Antoni","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3185
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4427
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Batxillerat elemental / graduat escolar / ESO / FPI",213
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3954
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1036
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1595
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2164
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2524
+2020,3,"Sants-Montjuïc",18,"Sants","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4383
+2020,4,"Les Corts",19,"les Corts","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2841
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1705
+2020,4,"Les Corts",21,"Pedralbes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",484
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",347
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1129
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Batxillerat elemental / graduat escolar / ESO / FPI",587
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1094
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1849
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1434
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1181
+2020,6,"Gràcia",29,"el Coll","Home","Batxillerat elemental / graduat escolar / ESO / FPI",719
+2020,6,"Gràcia",30,"la Salut","Home","Batxillerat elemental / graduat escolar / ESO / FPI",916
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3285
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2600
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2373
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",980
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3569
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Batxillerat elemental / graduat escolar / ESO / FPI",890
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","Batxillerat elemental / graduat escolar / ESO / FPI",4660
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1654
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Batxillerat elemental / graduat escolar / ESO / FPI",900
+2020,7,"Horta-Guinardó",40,"Montbau","Home","Batxillerat elemental / graduat escolar / ESO / FPI",549
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Batxillerat elemental / graduat escolar / ESO / FPI",562
+2020,7,"Horta-Guinardó",42,"la Clota","Home","Batxillerat elemental / graduat escolar / ESO / FPI",83
+2020,7,"Horta-Guinardó",43,"Horta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3008
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2860
+2020,8,"Nou Barris",45,"Porta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3481
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1996
+2020,8,"Nou Barris",47,"Can Peguera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",340
+2020,8,"Nou Barris",48,"la Guineueta","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1879
+2020,8,"Nou Barris",49,"Canyelles","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1011
+2020,8,"Nou Barris",50,"les Roquetes","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2436
+2020,8,"Nou Barris",51,"Verdun","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1789
+2020,8,"Nou Barris",52,"la Prosperitat","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3709
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1189
+2020,8,"Nou Barris",54,"Torre Baró","Home","Batxillerat elemental / graduat escolar / ESO / FPI",434
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1634
+2020,8,"Nou Barris",56,"Vallbona","Home","Batxillerat elemental / graduat escolar / ESO / FPI",214
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1536
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","Batxillerat elemental / graduat escolar / ESO / FPI",423
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1966
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","Batxillerat elemental / graduat escolar / ESO / FPI",6100
+2020,9,"Sant Andreu",61,"la Sagrera","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3169
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1602
+2020,9,"Sant Andreu",63,"Navas","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2290
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3719
+2020,10,"Sant Martí",65,"el Clot","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2838
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1444
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",487
+2020,10,"Sant Martí",68,"el Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3067
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",1058
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3677
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","Batxillerat elemental / graduat escolar / ESO / FPI",2410
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3104
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","Batxillerat elemental / graduat escolar / ESO / FPI",3860
+2020,1,"Ciutat Vella",1,"el Raval","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4341
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2383
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1646
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2475
+2020,2,"Eixample",5,"el Fort Pienc","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3995
+2020,2,"Eixample",6,"la Sagrada Família","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6165
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4673
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5068
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",6813
+2020,2,"Eixample",10,"Sant Antoni","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4558
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4281
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",71
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3261
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1229
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1760
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2298
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2834
+2020,3,"Sants-Montjuïc",18,"Sants","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4969
+2020,4,"Les Corts",19,"les Corts","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5299
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2720
+2020,4,"Les Corts",21,"Pedralbes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1130
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",500
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2440
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1666
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2712
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4750
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3315
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1841
+2020,6,"Gràcia",29,"el Coll","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",873
+2020,6,"Gràcia",30,"la Salut","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1612
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",5413
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4127
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3214
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1102
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4734
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1175
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3112
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1279
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",810
+2020,7,"Horta-Guinardó",40,"Montbau","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",588
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",738
+2020,7,"Horta-Guinardó",42,"la Clota","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",75
+2020,7,"Horta-Guinardó",43,"Horta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3286
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3105
+2020,8,"Nou Barris",45,"Porta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3059
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1680
+2020,8,"Nou Barris",47,"Can Peguera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",158
+2020,8,"Nou Barris",48,"la Guineueta","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1748
+2020,8,"Nou Barris",49,"Canyelles","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",620
+2020,8,"Nou Barris",50,"les Roquetes","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1260
+2020,8,"Nou Barris",51,"Verdun","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1145
+2020,8,"Nou Barris",52,"la Prosperitat","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2650
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",599
+2020,8,"Nou Barris",54,"Torre Baró","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",180
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",794
+2020,8,"Nou Barris",56,"Vallbona","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",83
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",875
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",169
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1261
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",7290
+2020,9,"Sant Andreu",61,"la Sagrera","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3604
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1820
+2020,9,"Sant Andreu",63,"Navas","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2832
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",4878
+2020,10,"Sant Martí",65,"el Clot","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3319
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1832
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",972
+2020,10,"Sant Martí",68,"el Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3764
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",1339
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2235
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2374
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",2964
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","Batxillerat superior / BUP / COU / FPII / CFGM grau mitjà",3083
+2020,1,"Ciutat Vella",1,"el Raval","Home","Estudis universitaris / CFGS grau superior",5624
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","Estudis universitaris / CFGS grau superior",3217
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","Estudis universitaris / CFGS grau superior",1926
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","Estudis universitaris / CFGS grau superior",4092
+2020,2,"Eixample",5,"el Fort Pienc","Home","Estudis universitaris / CFGS grau superior",5399
+2020,2,"Eixample",6,"la Sagrada Família","Home","Estudis universitaris / CFGS grau superior",8206
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","Estudis universitaris / CFGS grau superior",9567
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","Estudis universitaris / CFGS grau superior",8868
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","Estudis universitaris / CFGS grau superior",10829
+2020,2,"Eixample",10,"Sant Antoni","Home","Estudis universitaris / CFGS grau superior",6263
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","Estudis universitaris / CFGS grau superior",4696
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","Estudis universitaris / CFGS grau superior",34
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","Estudis universitaris / CFGS grau superior",1958
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","Estudis universitaris / CFGS grau superior",1310
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","Estudis universitaris / CFGS grau superior",2120
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","Estudis universitaris / CFGS grau superior",1972
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","Estudis universitaris / CFGS grau superior",2719
+2020,3,"Sants-Montjuïc",18,"Sants","Home","Estudis universitaris / CFGS grau superior",5737
+2020,4,"Les Corts",19,"les Corts","Home","Estudis universitaris / CFGS grau superior",8615
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","Estudis universitaris / CFGS grau superior",3954
+2020,4,"Les Corts",21,"Pedralbes","Home","Estudis universitaris / CFGS grau superior",2642
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","Estudis universitaris / CFGS grau superior",776
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","Estudis universitaris / CFGS grau superior",4948
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","Estudis universitaris / CFGS grau superior",3553
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","Estudis universitaris / CFGS grau superior",5297
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","Estudis universitaris / CFGS grau superior",10191
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","Estudis universitaris / CFGS grau superior",6126
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","Estudis universitaris / CFGS grau superior",2630
+2020,6,"Gràcia",29,"el Coll","Home","Estudis universitaris / CFGS grau superior",941
+2020,6,"Gràcia",30,"la Salut","Home","Estudis universitaris / CFGS grau superior",2142
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","Estudis universitaris / CFGS grau superior",9108
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","Estudis universitaris / CFGS grau superior",5891
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","Estudis universitaris / CFGS grau superior",3502
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","Estudis universitaris / CFGS grau superior",1039
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","Estudis universitaris / CFGS grau superior",4590
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","Estudis universitaris / CFGS grau superior",1244
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","Estudis universitaris / CFGS grau superior",1674
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","Estudis universitaris / CFGS grau superior",790
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","Estudis universitaris / CFGS grau superior",599
+2020,7,"Horta-Guinardó",40,"Montbau","Home","Estudis universitaris / CFGS grau superior",539
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","Estudis universitaris / CFGS grau superior",684
+2020,7,"Horta-Guinardó",42,"la Clota","Home","Estudis universitaris / CFGS grau superior",72
+2020,7,"Horta-Guinardó",43,"Horta","Home","Estudis universitaris / CFGS grau superior",2450
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","Estudis universitaris / CFGS grau superior",2273
+2020,8,"Nou Barris",45,"Porta","Home","Estudis universitaris / CFGS grau superior",1781
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","Estudis universitaris / CFGS grau superior",930
+2020,8,"Nou Barris",47,"Can Peguera","Home","Estudis universitaris / CFGS grau superior",78
+2020,8,"Nou Barris",48,"la Guineueta","Home","Estudis universitaris / CFGS grau superior",1056
+2020,8,"Nou Barris",49,"Canyelles","Home","Estudis universitaris / CFGS grau superior",295
+2020,8,"Nou Barris",50,"les Roquetes","Home","Estudis universitaris / CFGS grau superior",552
+2020,8,"Nou Barris",51,"Verdun","Home","Estudis universitaris / CFGS grau superior",551
+2020,8,"Nou Barris",52,"la Prosperitat","Home","Estudis universitaris / CFGS grau superior",1223
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","Estudis universitaris / CFGS grau superior",256
+2020,8,"Nou Barris",54,"Torre Baró","Home","Estudis universitaris / CFGS grau superior",93
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","Estudis universitaris / CFGS grau superior",264
+2020,8,"Nou Barris",56,"Vallbona","Home","Estudis universitaris / CFGS grau superior",43
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","Estudis universitaris / CFGS grau superior",359
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","Estudis universitaris / CFGS grau superior",71
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","Estudis universitaris / CFGS grau superior",681
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","Estudis universitaris / CFGS grau superior",5693
+2020,9,"Sant Andreu",61,"la Sagrera","Home","Estudis universitaris / CFGS grau superior",2855
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","Estudis universitaris / CFGS grau superior",1506
+2020,9,"Sant Andreu",63,"Navas","Home","Estudis universitaris / CFGS grau superior",2481
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","Estudis universitaris / CFGS grau superior",4996
+2020,10,"Sant Martí",65,"el Clot","Home","Estudis universitaris / CFGS grau superior",3072
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","Estudis universitaris / CFGS grau superior",2405
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","Estudis universitaris / CFGS grau superior",2063
+2020,10,"Sant Martí",68,"el Poblenou","Home","Estudis universitaris / CFGS grau superior",4792
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","Estudis universitaris / CFGS grau superior",2084
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","Estudis universitaris / CFGS grau superior",1195
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","Estudis universitaris / CFGS grau superior",2149
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","Estudis universitaris / CFGS grau superior",2028
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","Estudis universitaris / CFGS grau superior",1543
+2020,1,"Ciutat Vella",1,"el Raval","Home","No consta",377
+2020,1,"Ciutat Vella",2,"el Barri Gòtic","Home","No consta",63
+2020,1,"Ciutat Vella",3,"la Barceloneta","Home","No consta",87
+2020,1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Home","No consta",123
+2020,2,"Eixample",5,"el Fort Pienc","Home","No consta",203
+2020,2,"Eixample",6,"la Sagrada Família","Home","No consta",294
+2020,2,"Eixample",7,"la Dreta de l'Eixample","Home","No consta",318
+2020,2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Home","No consta",261
+2020,2,"Eixample",9,"la Nova Esquerra de l'Eixample","Home","No consta",377
+2020,2,"Eixample",10,"Sant Antoni","Home","No consta",248
+2020,3,"Sants-Montjuïc",11,"el Poble Sec","Home","No consta",309
+2020,3,"Sants-Montjuïc",12,"la Marina del Prat Vermell","Home","No consta",20
+2020,3,"Sants-Montjuïc",13,"la Marina de Port","Home","No consta",326
+2020,3,"Sants-Montjuïc",14,"la Font de la Guatlla","Home","No consta",74
+2020,3,"Sants-Montjuïc",15,"Hostafrancs","Home","No consta",107
+2020,3,"Sants-Montjuïc",16,"la Bordeta","Home","No consta",160
+2020,3,"Sants-Montjuïc",17,"Sants - Badal","Home","No consta",170
+2020,3,"Sants-Montjuïc",18,"Sants","Home","No consta",256
+2020,4,"Les Corts",19,"les Corts","Home","No consta",297
+2020,4,"Les Corts",20,"la Maternitat i Sant Ramon","Home","No consta",159
+2020,4,"Les Corts",21,"Pedralbes","Home","No consta",160
+2020,5,"Sarrià-Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Home","No consta",50
+2020,5,"Sarrià-Sant Gervasi",23,"Sarrià","Home","No consta",330
+2020,5,"Sarrià-Sant Gervasi",24,"les Tres Torres","Home","No consta",205
+2020,5,"Sarrià-Sant Gervasi",25,"Sant Gervasi - la Bonanova","Home","No consta",268
+2020,5,"Sarrià-Sant Gervasi",26,"Sant Gervasi - Galvany","Home","No consta",495
+2020,5,"Sarrià-Sant Gervasi",27,"el Putxet i el Farró","Home","No consta",260
+2020,6,"Gràcia",28,"Vallcarca i els Penitents","Home","No consta",130
+2020,6,"Gràcia",29,"el Coll","Home","No consta",60
+2020,6,"Gràcia",30,"la Salut","Home","No consta",77
+2020,6,"Gràcia",31,"la Vila de Gràcia","Home","No consta",326
+2020,6,"Gràcia",32,"el Camp d'en Grassot i Gràcia Nova","Home","No consta",185
+2020,7,"Horta-Guinardó",33,"el Baix Guinardó","Home","No consta",145
+2020,7,"Horta-Guinardó",34,"Can Baró","Home","No consta",67
+2020,7,"Horta-Guinardó",35,"el Guinardó","Home","No consta",267
+2020,7,"Horta-Guinardó",36,"la Font d'en Fargues","Home","No consta",64
+2020,7,"Horta-Guinardó",37,"el Carmel","Home","No consta",291
+2020,7,"Horta-Guinardó",38,"la Teixonera","Home","No consta",108
+2020,7,"Horta-Guinardó",39,"Sant Genís dels Agudells","Home","No consta",71
+2020,7,"Horta-Guinardó",40,"Montbau","Home","No consta",33
+2020,7,"Horta-Guinardó",41,"la Vall d'Hebron","Home","No consta",29
+2020,7,"Horta-Guinardó",42,"la Clota","Home","No consta",6
+2020,7,"Horta-Guinardó",43,"Horta","Home","No consta",222
+2020,8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Home","No consta",174
+2020,8,"Nou Barris",45,"Porta","Home","No consta",192
+2020,8,"Nou Barris",46,"el Turó de la Peira","Home","No consta",129
+2020,8,"Nou Barris",47,"Can Peguera","Home","No consta",36
+2020,8,"Nou Barris",48,"la Guineueta","Home","No consta",116
+2020,8,"Nou Barris",49,"Canyelles","Home","No consta",74
+2020,8,"Nou Barris",50,"les Roquetes","Home","No consta",185
+2020,8,"Nou Barris",51,"Verdun","Home","No consta",103
+2020,8,"Nou Barris",52,"la Prosperitat","Home","No consta",225
+2020,8,"Nou Barris",53,"la Trinitat Nova","Home","No consta",88
+2020,8,"Nou Barris",54,"Torre Baró","Home","No consta",51
+2020,8,"Nou Barris",55,"Ciutat Meridiana","Home","No consta",111
+2020,8,"Nou Barris",56,"Vallbona","Home","No consta",17
+2020,9,"Sant Andreu",57,"la Trinitat Vella","Home","No consta",101
+2020,9,"Sant Andreu",58,"Baró de Viver","Home","No consta",40
+2020,9,"Sant Andreu",59,"el Bon Pastor","Home","No consta",164
+2020,9,"Sant Andreu",60,"Sant Andreu","Home","No consta",466
+2020,9,"Sant Andreu",61,"la Sagrera","Home","No consta",186
+2020,9,"Sant Andreu",62,"el Congrés i els Indians","Home","No consta",109
+2020,9,"Sant Andreu",63,"Navas","Home","No consta",176
+2020,10,"Sant Martí",64,"el Camp de l'Arpa del Clot","Home","No consta",241
+2020,10,"Sant Martí",65,"el Clot","Home","No consta",216
+2020,10,"Sant Martí",66,"el Parc i la Llacuna del Poblenou","Home","No consta",104
+2020,10,"Sant Martí",67,"la Vila Olímpica del Poblenou","Home","No consta",108
+2020,10,"Sant Martí",68,"el Poblenou","Home","No consta",304
+2020,10,"Sant Martí",69,"Diagonal Mar i el Front Marítim del Poblenou","Home","No consta",124
+2020,10,"Sant Martí",70,"el Besòs i el Maresme","Home","No consta",233
+2020,10,"Sant Martí",71,"Provençals del Poblenou","Home","No consta",174
+2020,10,"Sant Martí",72,"Sant Martí de Provençals","Home","No consta",239
+2020,10,"Sant Martí",73,"la Verneda i la Pau","Home","No consta",279
