@@ -1,4 +1,4 @@
-year,quarter,period,district_code,district_name,neighborhood_code,neighborhood_name,price_month(€),price_m2_month(€)
+year,quarter,period,district_code,district_name,neighbourhood_code,neighbourhood_name,price_month(€),price_m2_month(€)
 2017,1,2017-01-01,1,Ciutat Vella,1,el Raval,734.99,13.5
 2017,1,2017-01-01,1,Ciutat Vella,2,el Barri Gòtic,905.26,14.14
 2017,1,2017-01-01,1,Ciutat Vella,3,la Barceloneta,722.78,19.46

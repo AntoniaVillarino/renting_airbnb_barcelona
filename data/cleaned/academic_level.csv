@@ -1,4 +1,4 @@
-year,district_code,district_name,neighborhood_code,neighborhood_name,man_bachelors_degree,man_elementary_school,man_junior_high_school,man_senior_high_school,man_unknown,man_without education,woman_bachelors_degree,woman_elementary_school,woman_junior_high_school,woman_senior_high_school,woman_unknown,woman_without education
+year,district_code,district_name,neighbourhood_code,neighbourhood_name,man_bachelors_degree,man_elementary_school,man_junior_high_school,man_senior_high_school,man_unknown,man_without education,woman_bachelors_degree,woman_elementary_school,woman_junior_high_school,woman_senior_high_school,woman_unknown,woman_without education
 2015,1,Ciutat Vella,1,el Raval,4455,9031,4966,3909,5,443,4563,5932,3732,3300,7,880
 2015,1,Ciutat Vella,2,el Barri Gòtic,2534,1567,1323,1713,0,124,2721,1170,977,1515,1,268
 2015,1,Ciutat Vella,3,la Barceloneta,1560,1782,1726,1438,2,244,1839,1786,1444,1259,1,553
