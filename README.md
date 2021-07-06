@@ -2,6 +2,8 @@
 
 👉  [Data Analytics CodeOp Course](https://codeop.tech/data-analytics-bootcamp/) Final Project, by [Vivian Kim](https://github.com/vivian-kim) and [Antonia Villarino](https://github.com/AntoniaVillarino) 
 
+- *See the [slides](https://docs.google.com/presentation/d/1V_0Ko-ZDkXAUzql9iJNp_9b7z4t-Qx8tL7JxGDCCZ2U/edit?usp=sharing) for the final presentation.*
+
 ## 1. Aim of the project
 
 Our main goals in this project are:
