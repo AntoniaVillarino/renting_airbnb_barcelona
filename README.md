@@ -90,7 +90,7 @@ The code for the XGBoost model can be seen in the [XGBoost_model.ipynb](https://
 
 The code for the Prophet model can be seen in the [prophet_model.ipynb](https://github.com/AntoniaVillarino/renting_airbnb_barcelona/blob/main/prophet_model.ipynb) notebook (we used [prophet](https://facebook.github.io/prophet/) and [neuralprophet](https://neuralprophet.com/) libraries), and our conclusions are:
 
-- In some tourist neighbourhoods like *Sagrada Família* or *el Barri Gòtic* the forecasts get better The forecast for the 4 neighbourhoods we picked improved by adding at least one extra regressor related to ‘AirBnB features’, and touristic areas improve with more than 2. It already shows the impact of Airbnb on Barcelona’s housing issues.
+- The forecast for the 4 neighbourhoods we picked improved by adding at least one extra regressor related to ‘AirBnB features’, and touristic areas, like *Sagrada Família* or *el Barri Gòtic*, improve with more than 2.
 
 <img src="images/sagrada_familia_prophet_regr.png" alt="Rental price prediction with XGBoost (la Dreta de l'Eixample neighbourhood)" width="400"/>
 
@@ -99,7 +99,7 @@ The code for the Prophet model can be seen in the [prophet_model.ipynb](https://
 ### Conclusions:
 
 - The results vary from neighbourhood to neighbourhood.
-- Variables extracted from [Inside Airbn](http://insideairbnb.com/index.html)b improve the accuracy of the model.
+- Variables extracted from [Inside Airbn](http://insideairbnb.com/index.html) improve the accuracy of the model.
 - We can reasonably predict the evolution in the rent prices for the next half year.
 
 ### Next steps:
